@@ -1,16 +1,33 @@
-# todolistlocaldatabase
+# Flutter To-Do List
 
-A new Flutter project.
+This is a simple Flutter application for managing a to-do list, featuring task creation, viewing, editing, deletion, and completion status updates.
 
-## Getting Started
+To get started:
+1. Clone the repository using:
+    ```bash
+    git clone https://github.com/tanviparmarrajput/flutter-todo-list.git
+    ```
+2. Navigate to the project directory with:
+    ```bash
+    cd flutter-todo-list
+    ```
+3. Install dependencies via:
+    ```bash
+    flutter pub get
+    ```
+4. Run the app on an emulator or device with:
+    ```bash
+    flutter run
+    ```
 
-This project is a starting point for a Flutter application.
+For contributions:
+- Fork the repository
+- Create a branch
+- Make changes
+- Commit
+- Push
+- Submit a Pull Request
 
-A few resources to get you started if this is your first Flutter project:
+The project is licensed under the MIT License.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+For any inquiries, contact me at [parmarrajputtanvi@example.com](mailto:parmarrajputtanvi@example.com) or visit my [GitHub profile](https://github.com/tanviparmarrajput).
